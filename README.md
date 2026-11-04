@@ -1,19 +1,19 @@
-# Universidad Central de Venezuela ![UCV_DS]([https://compex.ciens.ucv.ve/producto/ciencia-de-los-datos/ "link Diplomado"](https://extensionciencias.ucv.ve/diplomado-ciencias-de-datos/))
+# Universidad Central de Venezuela [Diplomado en Ciencia de Datos](https://extensionciencias.ucv.ve/diplomado-ciencias-de-datos/)
 
-<div align="center">
-<img src="[https://compex.ciens.ucv.ve/wp-content/uploads/2024/02/2.png](https://extensionciencias.ucv.ve/wp-content/uploads/2025/01/Formato-nuevo-06-1024x512.png)" width="500">
-</div>
 
-## Asignacion_01   
+[ ![Alt text](https://extensionciencias.ucv.ve/wp-content/uploads/2025/01/Formato-nuevo-06-1024x512.png)](https://extensionciencias.ucv.ve/diplomado-ciencias-de-datos/)
+
+
+## Asignacion_01
    * Se realizó un conteo de ocurrencia de las categorías (i.e. el campo `Listed In`), por ejemplo: Comedy, Drama, etc.
 
-   * **Fuente de datos** (archive_movies_csv.zip): ![data_set_movies_tv_shows](https://www.kaggle.com/datasets/krishnaraj30/movies-and-tv-shows)
+   * **Fuente de datos** (archive_movies_csv.zip): [data_set_movies_tv_shows](https://www.kaggle.com/datasets/krishnaraj30/movies-and-tv-shows)
    * El dataset antes mencionado se encuentra para su uso en: [datasets/movies_tv_shows](datasets/movies_tv_shows) bajo el nombre de `movies_tv_shows.zip`
 
 ## Asignacion_02
    * Exploracion_Viz: 5 gráficos con matplotlib  de las películas y series
    
-   * **Fuente de datos** (archive_movies_csv.zip): ![data_set_movies_tv_shows](https://www.kaggle.com/datasets/krishnaraj30/movies-and-tv-shows)
+   * **Fuente de datos** (archive_movies_csv.zip): [data_set_movies_tv_shows](https://www.kaggle.com/datasets/krishnaraj30/movies-and-tv-shows)
    * El dataset antes mencionado se encuentra para su uso en: [datasets/movies_tv_shows](datasets/movies_tv_shows) bajo el nombre de `movies_tv_shows.zip`
 
 ## Asignacion_03 (algoritmo -random naive bayes-)
@@ -48,7 +48,7 @@ Si los nombres (en ingles) en `cast` son masculinos o femeninos, se le adjudicar
 ## Asignacion_05 (textmine)
    * Realizamos un conteo relativo de palabras y frases tanto en capítulo 10 como 11.
      
-   * Fuente de datos: ![Miguel de Cervantes - El Quijote - ](https://www.gutenberg.org/cache/epub/15115/pg15115.txt)
+   * Fuente de datos: [Miguel de Cervantes - El Quijote - ](https://www.gutenberg.org/cache/epub/15115/pg15115.txt)
    * Se separaron el cap 10 y 11; (cap_10_cervantes.txt) (cap_10_cervantes.txt)
    * Los datasets antes mencionados se encuentran para su uso respectivamente en: [datasets/Cap_10_11_cervantes](datasets/Cap_10_11_cervantes) 
       
