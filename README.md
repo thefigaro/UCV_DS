@@ -1,7 +1,7 @@
-# Universidad Central de Venezuela ![UCV_DS](https://compex.ciens.ucv.ve/producto/ciencia-de-los-datos/ "link Diplomado")
+# Universidad Central de Venezuela ![UCV_DS]([https://compex.ciens.ucv.ve/producto/ciencia-de-los-datos/ "link Diplomado"](https://extensionciencias.ucv.ve/diplomado-ciencias-de-datos/))
 
 <div align="center">
-<img src="https://compex.ciens.ucv.ve/wp-content/uploads/2024/02/2.png" width="500">
+<img src="[https://compex.ciens.ucv.ve/wp-content/uploads/2024/02/2.png](https://extensionciencias.ucv.ve/wp-content/uploads/2025/01/Formato-nuevo-06-1024x512.png)" width="500">
 </div>
 
 ## Asignacion_01   
