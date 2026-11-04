@@ -1,21 +1,25 @@
-# Universidad Central de Venezuela [Diplomado en Ciencia de Datos](https://extensionciencias.ucv.ve/diplomado-ciencias-de-datos/)
+# Universidad Central de Venezuela [Diplomado en Ciencias de Datos](https://extensionciencias.ucv.ve/diplomado-ciencias-de-datos/)
 
 
 [ ![Alt text](https://extensionciencias.ucv.ve/wp-content/uploads/2025/01/Formato-nuevo-06-1024x512.png)](https://extensionciencias.ucv.ve/diplomado-ciencias-de-datos/)
 
+<div align="center">
+  
 [![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/try-jupyter/lab/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](http://python.org)
 
-## Asignacion_01
+</div>
+
+## Asignacion_01 
    * Se realizó un conteo de ocurrencia de las categorías (i.e. el campo `Listed In`), por ejemplo: Comedy, Drama, etc.
 
-   * **Fuente de datos** (archive_movies_csv.zip): [data_set_movies_tv_shows](https://www.kaggle.com/datasets/krishnaraj30/movies-and-tv-shows)
+   * **Fuente de datos** (archive_movies_csv.zip): [kaggle: data_set_movies_tv_shows](https://www.kaggle.com/datasets/krishnaraj30/movies-and-tv-shows)
    * El dataset antes mencionado se encuentra para su uso en: [datasets/movies_tv_shows](datasets/movies_tv_shows) bajo el nombre de `movies_tv_shows.zip`
 
 ## Asignacion_02
    * Exploracion_Viz: 5 gráficos con matplotlib  de las películas y series
    
-   * **Fuente de datos** (archive_movies_csv.zip): [data_set_movies_tv_shows](https://www.kaggle.com/datasets/krishnaraj30/movies-and-tv-shows)
+   * **Fuente de datos** (archive_movies_csv.zip): [kaggle: data_set_movies_tv_shows](https://www.kaggle.com/datasets/krishnaraj30/movies-and-tv-shows)
    * El dataset antes mencionado se encuentra para su uso en: [datasets/movies_tv_shows](datasets/movies_tv_shows) bajo el nombre de `movies_tv_shows.zip`
 
 ## Asignacion_03 (algoritmo -random naive bayes-)
